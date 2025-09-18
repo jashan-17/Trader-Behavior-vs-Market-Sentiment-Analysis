@@ -42,7 +42,7 @@ ds_jashanpreet_singh/
 ## ⚙️ Setup & Usage  
 
 1. Open the analysis notebook in **Google Colab**:  
-   👉 [Notebook Link](https://colab.research.google.com/drive/YOUR-NOTEBOOK-ID)  
+   👉 [Notebook Link](https://colab.research.google.com/drive/1ZefZIQatzzv5Vjh2cWP3s181xy-52FHt?usp=sharing)
 
 2. Place the raw datasets into the `csv_files/` folder.  
    - `fear_greed_index.csv`  
