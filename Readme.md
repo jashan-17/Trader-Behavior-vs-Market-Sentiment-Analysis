@@ -15,25 +15,28 @@ The objective is to uncover hidden trends or signals that could influence smarte
 
 ## 📂 Folder Structure  
 
-ds_jashanpreet_singh/
-│
-├── notebook_1.ipynb # Main analysis notebook (Google Colab)
-│
-├── csv_files/
-│ ├── fear_greed_index.csv # Raw sentiment dataset
-│ ├── historical_data.csv # Raw trader dataset
-│ ├── processed_trader_sentiment.csv # Final cleaned dataset
-│
-├── outputs/
-│ ├── pnl_vs_sentiment.png
-│ ├── volume_vs_sentiment.png
-│ ├── bullish_ratio_vs_sentiment.png
-│ ├── correlation_heatmap.png
-│ └── ... (other charts/EDA results)
-│
-├── ds_report.pdf 
-│
-└── README.md
+## 📂 Folder Structure  
+
+ds_jashanpreet_singh/  
+│  
+├── notebook_1.ipynb                  # Main analysis notebook (Google Colab)  
+│  
+├── csv_files/                        # Contains all datasets  
+│   ├── fear_greed_index.csv          # Raw sentiment dataset  
+│   ├── historical_data.csv           # Raw trader dataset  
+│   └── processed_trader_sentiment.csv # Final cleaned dataset for analysis  
+│  
+├── outputs/                          # Contains generated charts & visualizations  
+│   ├── pnl_vs_sentiment.png  
+│   ├── volume_vs_sentiment.png  
+│   ├── bullish_ratio_vs_sentiment.png  
+│   ├── correlation_heatmap.png  
+│   └── ... (other charts/EDA results)  
+│  
+├── ds_report.pdf                     # Final report  
+│  
+└── README.md                         # Project overview & instructions  
+
 
 
 
